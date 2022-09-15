@@ -1,0 +1,12 @@
+{
+    "liveServer.settings.multiRootWorkspaceName": "CursoJS",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./12ex",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}
